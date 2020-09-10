@@ -1,2 +1,2 @@
-# Physics-Engine
-I tested out a physics engine with some objects.
+# staticSquare
+A static square made using Matter.js physics engine
